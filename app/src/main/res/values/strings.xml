@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieEcho</string>
+    <string name="movie_screen_top_bar_title">MovieEcho</string>
+    <string name="movie_item_rating_label">Rating: </string>
+    <string name="movie_echo_something_went_wrong">Something went wrong</string>
+    <string name="movie_echo_please_try_again_later">Please try again later</string>
+    <string name="movie_echo_retry">Retry</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_xxsmall">2dp</dimen>
+    <dimen name="padding_xsmall">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="movie_list_item_start_indent">88dp</dimen>
+    <dimen name="movie_list_item_image_size">120dp</dimen>
+    <dimen name="movie_list_item_image_padding_end">12dp</dimen>
+    <dimen name="movie_echo_top_bar_height">64dp</dimen>
+    <dimen name="random_movie_fab_size">54dp</dimen>
+    <dimen name="random_movie_fab_icon_size">24dp</dimen>
+    <dimen name="movie_echo_bottom_bar_height">80dp</dimen>
+    <dimen name="movie_echo_bottom_bar_tonal_elevation">3dp</dimen>
+
+    ///font sizes//
+    <dimen name="movie_echo_font_size">20sp</dimen>
+    <dimen name="movie_echo_font_size_12_sp">12sp</dimen>
+</resources>
